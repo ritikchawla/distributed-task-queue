@@ -107,7 +107,6 @@ func (q *Queue) Close() error {
 }
 
 // Storage returns the underlying storage for advanced operations.
-// Use with caution - prefer using Queue methods when possible.
 func (q *Queue) Storage() *storage.RedisStorage {
 	return q.storage
 }

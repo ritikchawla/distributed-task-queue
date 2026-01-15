@@ -35,11 +35,6 @@ The distributed task queue follows a producer-consumer pattern with Redis as the
 ## Quick Start
 
 
-### Prerequisites
-
-- Go 1.21 or later
-- Redis 7.0 or later
-
 ### Installation
 
 ```bash

@@ -48,5 +48,3 @@ dist/
 
 # Redis dump
 dump.rdb
-
-docs/
